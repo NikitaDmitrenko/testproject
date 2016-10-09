@@ -1,0 +1,5 @@
+main\Services\FileHandler.class
+main\model\Result.class
+main\controllers\TestController.class
+main\Repositories\LinesRepository.class
+main\model\Lines.class
